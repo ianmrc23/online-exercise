@@ -35,3 +35,13 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # online-exercise
+
+
+
+1. Next.js as the React framework
+2. Next.js API Routes for server-side API routes as the backend
+3. Prisma as the ORM for migrations and database access
+4. Vercel Postgres as the database
+5. NextAuth.js for authentication via GitHub (OAuth)
+6. TypeScript as the programming language
+7. Vercel for deployment
